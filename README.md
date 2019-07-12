@@ -10,4 +10,10 @@
 oscript /path/to/src/cmd/extconvert.os convert Обработка.epf ./build 8.3.10
 ```
 
+или при установленном пакете:
+
+```
+extconvert convert ШаблонОбработки.epf ./build 8.3.10
+```
+
 В рабочем каталог будет создан Ext.cf
